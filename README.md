@@ -10,13 +10,14 @@ These are dynamic visual representation for monitoring key performance indicator
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/dashboard%20for%20property%20management.png)
 
 ## BREAKDOWN/EXPLANATION OF KEY PERFORMANCE INDICATORS
-#### CONTRACT EXPIRATION TRACKER<br>
+#### CONTRACT EXPIRATION TRACKER
 This mainly helps to keep track of the contract duration of each active occupant, as well as to easily identify those with expired contracts. It is a dynamic visual representation of how many days left before an active occupant's contract expires.<br>
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/contract%20expiration.png)
 <br><br> 
 #### CUSTOMER RETENTION & OCCUPANCY RATE
 Customer retention rate is a metric for measuring the rate at which occupants are renewing their contracts 
-after expiration of the initial one.![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/customer%20retention%20rate.png)
+after expiration of the initial one.<br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/customer%20retention%20rate.png)
 <br><br>
 Occupancy rate is a metric for measuring rate at which letting units (shops and land space) are being rented. <br>
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/occupancy%20rate.png)<br>
