@@ -3,11 +3,11 @@ A sample demonstration of my analytical experience and skills in real estate dat
 Tools used to execute this task are: <br>
 PostgreSQL for datawarehousing <br>
 SQL, NumPy, and Pandas for data manipulation and statistical analysis<br>
-MS Excel, Seaborn, and Matplotlib for data visualization and imaging <br>
+MS Excel, Seaborn, and Matplotlib for data visualization and image design <br>
 
 #### KEY PERFORMANCE INDICATORS
 CONTRACT EXPIRATION TRACKER<br>
-(image}
+![image](
 <br>
 CUSTOMER RETENTION & OCCUPANCY RATE<br>
 (image) <br>
