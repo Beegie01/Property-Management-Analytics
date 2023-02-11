@@ -1,5 +1,5 @@
 # Property-Management-Analytics
-A sample demonstration of my analytical experience and skills in real estate data-driven management business.
+A sample demonstration of my analytical experience and skills in the real estate management business.
 Tools used to execute this task are: <br>
 PostgreSQL for datawarehousing <br>
 SQL, NumPy, and Pandas for data manipulation and statistical analysis<br>
