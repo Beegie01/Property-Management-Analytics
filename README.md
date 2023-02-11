@@ -31,9 +31,15 @@ which indicates how much we need the services of a lawyer. This metric has a dir
 <br>  (i) legal costs (ii) lack of revenue generation from the letting unit (iii) loss of opportunity to replace outgoing occupant with potential occupants due to the unavailability of the letting unit.
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/eviction%20rate.png) <br>
 <br>
+Ranking the various reasons given by leaving occupants for evacuating the property is an important indicator for assisting the sales personnel to improve customer retention.
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/reasons%20for%20evacuation.png) <br>
 <br>
 MARKETING MEDIA PERFORMANCE, CUSTOMER ENGAGEMENT RATING & VALUABLE PRODUCT RATING <br>
+Ranking the performance of the various marketing media is key when making the decision to deploy funds to the most effective marketing medium. This indicator can help to reduce costs of advertisement.<br>
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/marketing%20media%20ranking.png) <br>
+<br>
+Customer Engagement rating gives the information of the most likely month(s) of the year for key customer activities such as making payments, moving in, and evacuation.<br>
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/customer%20engagement%20highlights.png) <br>
+<br>
+Valuable product rating helps to rank from the least to most valuable letting units. This is a key indicator for creating a effective marketing plan.
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/product%20demand.png) <br>
