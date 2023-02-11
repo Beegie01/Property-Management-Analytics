@@ -19,8 +19,8 @@ This mainly helps to keep track of the contract duration of each active occupant
 <br>
 Customer retention rate is a metric for measuring the rate at which occupants are renewing their contracts 
 after expiration of the initial one.
-![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/customer%20retention%20rate.png) <br>
-<br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/customer%20retention%20rate.png)
+<br><br>
 Occupancy rate is a metric for measuring rate at which letting units (shops and land space) are being rented. <br>
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/occupancy%20rate.png)<br>
 <br>
