@@ -1,10 +1,15 @@
 # Property-Management-Analytics
-A sample demonstration of my analytical experience and skills in real estate data-driven management.
+A sample demonstration of my analytical experience and skills in real estate data-driven management business.
 Tools used to execute this task are: <br>
 PostgreSQL for datawarehousing <br>
 SQL, NumPy, and Pandas for data manipulation and statistical analysis<br>
 MS Excel, Seaborn, and Matplotlib for data visualization and image design <br>
 
+### OVERVIEW
+These are dynamic visual representation for monitoring key performance indicators. The goal is to give managers important information needed to make data-driven and insightful decisions.
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/dashboard%20for%20property%20management.png)
+
+## BREAKDOWN/EXPLANATION
 ### KEY PERFORMANCE INDICATORS
 #### CONTRACT EXPIRATION TRACKER<br>
 This mainly helps to keep track of the contract duration of each active occupant, as well as to easily identify those with expired contracts. It is a dynamic visual representation of how many days left before an active occupant's contract expires.<br>
@@ -32,5 +37,3 @@ MARKETING MEDIA PERFORMANCE, CUSTOMER ENGAGEMENT RATING & VALUABLE PRODUCT RATIN
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/marketing%20media%20ranking.png) <br>
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/customer%20engagement%20highlights.png) <br>
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/product%20demand.png) <br>
-
-A dynamic dashboard was designed as follows (based on key performance indicators):
