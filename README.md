@@ -14,12 +14,13 @@ CUSTOMER RETENTION & OCCUPANCY RATE<br>
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/occupancy%20rate.png)<br>
 <br>
 EVACUATION RATE, EVICTION RATE, REASONS FOR EVACUATION RANKING <br>
-![image]( <br>
-![image]( <br>
-![image]( <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/evacuation%20rate.png) <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/eviction%20rate.png) <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/reasons%20for%20evacuation.png) <br>
 <br>
-MARKETING MEDIA PERFORMANCE & VALUABLE PRODUCT RATING <br>
-(IMAGE) <br>
-(IMAGE) <br>
+MARKETING MEDIA PERFORMANCE, CUSTOMER ENGAGEMENT RATING & VALUABLE PRODUCT RATING <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/marketing%20media%20ranking.png) <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/customer%20engagement%20highlights.png) <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/product%20demand.png) <br>
 
 A dynamic dashboard was designed as follows (based on key performance indicators):
