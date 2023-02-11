@@ -7,13 +7,17 @@ MS Excel, Seaborn, and Matplotlib for data visualization and image design <br>
 
 #### KEY PERFORMANCE INDICATORS
 CONTRACT EXPIRATION TRACKER<br>
-![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/contract%20expiration.png)
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/contract%20expiration.png)<br>
 <br>
 CUSTOMER RETENTION & OCCUPANCY RATE<br>
-(image) <br>
-(IMAGE) <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/customer%20retention%20rate.png) <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/occupancy%20rate.png)<br>
+<br>
 EVACUATION RATE, EVICTION RATE, REASONS FOR EVACUATION RANKING <br>
-(IMAGE)<br>
+![image]( <br>
+![image]( <br>
+![image]( <br>
+<br>
 MARKETING MEDIA PERFORMANCE & VALUABLE PRODUCT RATING <br>
 (IMAGE) <br>
 (IMAGE) <br>
