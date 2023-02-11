@@ -12,10 +12,10 @@ These are dynamic visual representation for monitoring key performance indicator
 ## BREAKDOWN/EXPLANATION
 ### KEY PERFORMANCE INDICATORS
 #### CONTRACT EXPIRATION TRACKER<br>
-This mainly helps to keep track of the contract duration of each active occupant, as well as to easily identify those with expired contracts. It is a dynamic visual representation of how many days left before an active occupant's contract expires.<br>
-![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/contract%20expiration.png)<br>
-<br>
-#### CUSTOMER RETENTION & OCCUPANCY RATE<br>
+This mainly helps to keep track of the contract duration of each active occupant, as well as to easily identify those with expired contracts. It is a dynamic visual representation of how many days left before an active occupant's contract expires.
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/contract%20expiration.png)
+<br><br>
+#### CUSTOMER RETENTION & OCCUPANCY RATE
 <br>
 Customer retention rate is a metric for measuring the rate at which occupants are renewing their contracts 
 after expiration of the initial one.
@@ -35,9 +35,9 @@ which indicates how much we need the services of a lawyer. This metric has a dir
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/eviction%20rate.png) <br>
 <br>
 Ranking the various reasons given by leaving occupants for evacuating the property is an important indicator for assisting the sales personnel to improve customer retention.
-![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/reasons%20for%20evacuation.png) <br>
-<br>
-#### MARKETING MEDIA PERFORMANCE, CUSTOMER ENGAGEMENT RATING & VALUABLE PRODUCT RATING <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/reasons%20for%20evacuation.png)
+<br><br>
+#### MARKETING MEDIA PERFORMANCE, CUSTOMER ENGAGEMENT RATING & VALUABLE PRODUCT RATING
 <br>
 Ranking the performance of the various marketing media is key when making the decision to deploy funds to the most effective marketing medium. This indicator can help to reduce costs of advertisement.<br>
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/marketing%20media%20ranking.png) <br>
@@ -46,4 +46,4 @@ Customer Engagement rating gives the information of the most likely month(s) of 
 ![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/customer%20engagement%20highlights.png) <br>
 <br>
 Valuable product rating helps to rank from the least to most valuable letting units. This is a key indicator for creating a effective marketing plan.
-![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/product%20demand.png) <br>
+![image](https://github.com/Beegie01/Property-Management-Analytics/blob/main/product%20demand.png)
